@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357510529637",
+    "project_id": "wta-studios"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357510529637:android:6e9396ccd7948d13",
+        "android_client_info": {
+          "package_name": "com.example.wtastudios.srikanth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357510529637-18t78s1bq82t9s9hr2ctvqan8vai5oer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wtastudios.srikanth",
+            "certificate_hash": "dcf44211449e1dbfdfb9782e33f7bb339de8a677"
+          }
+        },
+        {
+          "client_id": "357510529637-phpdu0b9a4s6kcgpjcceh5infuue34ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlx7cMGgFgYPYx99LcGeG3cezJ9sL3Ymk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
